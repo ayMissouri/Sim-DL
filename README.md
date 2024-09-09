@@ -27,3 +27,8 @@ Click here to download the DLC
 1. Open the `dlc` folder.
 2. Open your game folder. (For steam right click the game, hover over manage, then press Browse Local Files)
 3. Drag ALL the folders from the `dlc.zip` folder into your game folder. (This may take some time since there is a lot of DLC. Mine took around 3 and a half minutes)
+
+### Step 3: ENJOY!
+The next time you launch the game you will be notified that you have all the DLC.
+
+_Note: their system of showing the dlc is really annoying but you can hold ESC to skip past the welcomes faster_
