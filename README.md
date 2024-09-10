@@ -10,7 +10,9 @@ This is used to trick the game into thinking you have the DLC.
 #### 2. DLC Files
 These are the actual files for the in game content.
 
-[Click here to download the DLC (40GB)](https://img.ladz.site/u/dlc.zip)
+The downloads are split into 6 parts and in order for release date, DLC1 will have older DLC than DLC6
+
+[DLC1 (5GB)](https://img.ladz.site/u/dlc1.zip) | [DLC2 (5GB)](https://img.ladz.site/u/dlc2.zip) | [DLC3 (6.5GB)](https://img.ladz.site/u/dlc3.zip) | [DLC4 (8.8GB)](https://img.ladz.site/u/dlc4.zip) | [DLC5 (7.8GB)](https://img.ladz.site/u/dlc5.zip) | [DLC6 (6.8GB)](https://img.ladz.site/u/dlc6.zip)
 
 # Lets get started!
 
