@@ -12,7 +12,7 @@ These are the actual files for the in game content.
 
 The downloads are split into 6 parts and in order for release date, DLC1 will have older DLC than DLC6
 
-[DLC1 (5GB)](https://img.ladz.site/u/dlc1.zip) | [DLC2 (5GB)](https://img.ladz.site/u/dlc2.zip) | [DLC3 (6.5GB)](https://img.ladz.site/u/dlc3.zip) | [DLC4 (8.8GB)](https://img.ladz.site/u/dlc4.zip) | [DLC5 (7.8GB)](https://img.ladz.site/u/dlc5.zip) | [DLC6 (6.8GB)](https://img.ladz.site/u/dlc6.zip)
+[DLC1 (5GB)](https://mega.nz/file/Iv4XCLxC#Qyd868xBflvqQKKXQYIpBGBvFovCzWpYWW1IkNmzN_A) | [DLC2 (5GB)](https://mega.nz/file/Fu4g3Y7a#j59__Ob5SyrTJrTdGuejEjUr2fD1zEhWuTnB28w7xVw) | [DLC3 (6.5GB)](https://mega.nz/file/Frhh1a4a#FL3WZROL7iH2yuZNG90Ab80kA7txIjhazSRz3us2tP0) | [DLC4 (8.8GB)](https://mega.nz/file/Iz40EYhK#7Th8ucaMPc_ecuBq9TCIYtPoXLRuqpcGxXd7OQEdCIw) | [DLC5 (7.8GB)](https://mega.nz/file/oqh2WDIC#L4-rKDhVIaPjYQoNqpXOytLFEXz22soGkKszBaLriAc) | [DLC6 (6.8GB)](https://mega.nz/file/o6wjgSja#cCizxEU6lEM68qefu07wtLnZ8G6PVTbXK5Ce91LnaFk)
 
 # Lets get started!
 
